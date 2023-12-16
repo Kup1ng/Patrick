@@ -1,5 +1,5 @@
 # What is Patrick?
- Patrick is a website builder, with Patrick you can create an online website to display service specifications and the rest so that your users can easily view the full specifications of your service online by entering the configuration.
+ Patrick is a website builder, with Patrick you can create an online website to display service info so that your users can easily view the full specifications of your service online by entering the v2ray config.
 
  # Patrick Futures
  1- Can connect to <a href="https://github.com/alireza0/x-ui">Alireza</a> and <a href="https://github.com/alireza0/x-ui">Sanaei</a> (All versions)<br>
