@@ -23,3 +23,5 @@
 **ربات: [@Patrick_status_bot](https://t.me/Patrick_Status_bot)**
 <br>
 **کانال: [@Patrick_status](https://t.me/Patrick_status)**
+<br>
+**گروه: [@Patrick_Status_Gap](https://t.me/Patrick_Status_Gap)**
