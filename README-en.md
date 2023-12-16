@@ -7,7 +7,7 @@
   4- Display the expiration date of the service <br> 5- Display the active or inactive status of the service <br> 6- Display the remaining days <br> 7- Display the remaining traffic <br> 8- Support for Farsi and English <br>  > 9- Ability to add multiple panels <br> 10- Free subdomain
  <br> 11- Viewing the online status of the config (Alireza Panel version 1.6.1 and later) <br> 12- Installation without the need for a host and server <br> 13- Receive QrCode and service connection link <br> 13- Change the connection link  <br> service 14- Creating a dedicated and unchangeable status link (by the user) for each <br> service 15- Managing the site and panels through [Telegram bot] (https://t.me/Patrick_Status_bot)
 
- # learn inistallation
+ # Inistallation
  Enter [Telegram bot] (https://t.me/Patrick_Status_bot)
   and follow [these steps](https://github.com/Kup1ng/Patrick/blob/main/main-menu/add-site.md)
 
