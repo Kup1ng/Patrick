@@ -1,7 +1,7 @@
 # What is Patrick?
  Patrick is a website builder, with Patrick you can create an online website to display service info so that your users can easily view the full specifications of your service online by entering the v2ray config.
 
- # Patrick Futures
+ # Patrick Features
  1- Can connect to <a href="https://github.com/alireza0/x-ui">Alireza</a> and <a href="https://github.com/alireza0/x-ui">Sanaei</a> (All versions)<br>
   2- Display the amount of download and upload <br> 3- Display the total consumption <br>
   4- Display the expiration date of the service <br> 5- Display the active or inactive status of the service <br> 6- Display the remaining days <br> 7- Display the remaining traffic <br> 8- Support for Farsi and English <br>  > 9- Ability to add multiple panels <br> 10- Free subdomain
