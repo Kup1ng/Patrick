@@ -23,3 +23,4 @@
  **Bot: [@Patrick_status_bot](https://t.me/Patrick_Status_bot)**
  <br>
  **Channel: [@Patrick_status](https://t.me/Patrick_status)**
+ **Group: [@Patrick_Status_Gap](https://t.me/Patrick_Status_Gap)**
