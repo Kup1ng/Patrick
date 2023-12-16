@@ -10,4 +10,4 @@
 - [حذف سایت](https://github.com/Kup1ng/Patrick/blob/main/main-menu/delete-site.md)
 - [فعال و غیرفعال کردن سایت](https://github.com/Kup1ng/Patrick/blob/main/main-menu/enable-%26-disable-site.md)
 - [مدیریت سایت ها](https://github.com/Kup1ng/Patrick/blob/main/main-menu/site-management.md)
-- [حریم خصوصی و امنیت](https://github.com/Kup1ng/Patrick/blob/main/main-menu/privacy.md)
+- [حریم خصوصی و امنیت](https://github.com/Kup1ng/Patrick/blob/main/privacy-&-security.md)
