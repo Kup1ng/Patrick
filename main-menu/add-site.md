@@ -19,7 +19,7 @@
 
 اگر میخواید از دامنه ای استفاده کنید که روی کلودفلر هست یک رکورد CNAME ایجاد کنید و target رو `connect.patrick-status.site` قرار بدید و دامنه را به ربات ارسال کنید!
 
-![CNAME](https://github.com/Kup1ng/Patrick/assets/132708807/aca0e557-d32d-4040-867e-851b0203dadf)
+![set cloudflare dns record](https://raw.githubusercontent.com/Kup1ng/Patrick/main/images/set-cloudflare-dns.png)
 
 
 > [!WARNING]
@@ -33,4 +33,4 @@
 
 > **ns2.patrick-status.site**
 
-![Screenshot (1504)](https://github.com/Kup1ng/Patrick/assets/132708807/9e56ba54-d73b-48c9-80e0-e6ff24f5fcb4)
+![set name server](https://raw.githubusercontent.com/Kup1ng/Patrick/main/images/ns-set.png)
