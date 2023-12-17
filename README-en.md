@@ -5,7 +5,7 @@
  1- Can connect to <a href="https://github.com/alireza0/x-ui">Alireza</a> and <a href="https://github.com/alireza0/x-ui">Sanaei</a> (All versions)<br>
   2- Display the amount of download and upload <br> 3- Display the total consumption <br>
   4- Display the expiration date of the service <br> 5- Display the active or inactive status of the service <br> 6- Display the remaining days <br> 7- Display the remaining traffic <br> 8- Support for Farsi and English <br> 9- Ability to add multiple panels <br> 10- Free subdomain
- <br> 11- Viewing the online status of the config (Alireza Panel version 1.6.1 and later) <br> 12- Installation without the need for a host and server <br> 13- Receive QrCode and service connection link <br> 14- Change the connection link  <br> service <br> 15- Creating a dedicated and unchangeable status link(by the user) for each <br> service <br> 16- Managing the site and panels through [Telegram bot](https://t.me/Patrick_Status_bot)
+ <br> 11- Viewing the online status of the config (Alireza Panel version 1.6.1 and later) <br> 12- Installation without the need for a host and server <br> 13- Receive QrCode and service connection link <br> 14- Change the connection link  <br> service <br> 15- Creating a dedicated and unchangeable status link(by the user) for each <br> service <br> 16- Managing the site and panels via [Telegram bot](https://t.me/Patrick_Status_bot)
 
  # Inistallation
  Enter [Telegram bot](https://t.me/Patrick_Status_bot)
