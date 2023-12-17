@@ -1,3 +1,9 @@
+<div align="center"><img src="https://raw.githubusercontent.com/Kup1ng/Patrick/main/images/patrick.png" width="350"></div>
+<div align="center">
+برای توضیحات فارسی <a href="https://github.com/Kup1ng/Patrick/blob/main/README-en.md"> اینجا کلیک کنید </a>
+</div>
+<br>
+
 # What is Patrick?
  Patrick is a website builder; using Patrick, you can create an online website to display the details of your services and other information. This allows your users to easily view their complete and online service by entering the v2ray configuration of their service.
 
