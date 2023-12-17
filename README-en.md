@@ -19,11 +19,11 @@
 
  # Useful links
  - [Account Info](https://github.com/Kup1ng/Patrick/blob/main/main-menu/Account-info.md)
- - [add site](https://github.com/Kup1ng/Patrick/blob/main/main-menu/add-site.md)
- - [delete site](https://github.com/Kup1ng/Patrick/blob/main/main-menu/delete-site.md)
+ - [Add site](https://github.com/Kup1ng/Patrick/blob/main/main-menu/add-site.md)
+ - [Delete site](https://github.com/Kup1ng/Patrick/blob/main/main-menu/delete-site.md)
  - [Enable and disable site](https://github.com/Kup1ng/Patrick/blob/main/main-menu/enable-%26-disable-site.md)
- - [site management](https://github.com/Kup1ng/Patrick/blob/main/main-menu/site-management.md)
- - [privacy and security](https://github.com/Kup1ng/Patrick/blob/main/privacy-&-security.md)
+ - [Site management](https://github.com/Kup1ng/Patrick/blob/main/main-menu/site-management.md)
+ - [Privacy and security](https://github.com/Kup1ng/Patrick/blob/main/privacy-&-security.md)
 
  # Telegram
  **Bot: [@Patrick_status_bot](https://t.me/Patrick_Status_bot)**
