@@ -1,3 +1,9 @@
+<div align="center"><img src="https://raw.githubusercontent.com/Kup1ng/Patrick/main/images/patrick.png" width="350"></div>
+<div align="center">
+<a href="https://github.com/Kup1ng/Patrick/blob/main/README-en.md"> Click here </a> for English README
+</div>
+<br><br>
+
 # پاتریک چیست؟
 پاتریک یک سایت ساز می باشد، با استفاده از پاتریک میتوانید یک وب سایت آنلاین جهت نمایش مشخصات سرویس و باقی مانده آن بسازید تا کاربرانتون به راحتی با وارد کردن کانفینگ مشخصات کامل سرویس خود را به صورت کامل و آنلاین مشاهده بکنند.
 
