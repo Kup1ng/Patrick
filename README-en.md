@@ -1,6 +1,6 @@
 <div align="center"><img src="https://raw.githubusercontent.com/Kup1ng/Patrick/main/images/patrick.png" width="350"></div>
 <div align="center">
-برای توضیحات فارسی <a href="https://github.com/Kup1ng/Patrick/blob/main/README-en.md"> اینجا کلیک کنید </a>
+برای توضیحات فارسی <a href="https://github.com/Kup1ng/Patrick/blob/main/README.md"> اینجا کلیک کنید </a>
 </div>
 <br>
 
