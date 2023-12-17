@@ -14,7 +14,7 @@
  <br> 11- Viewing the online status of the config (Alireza Panel version 1.6.1 and later) <br> 12- Installation without the need for a host and server <br> 13- Receive QrCode and service connection link <br> 14- Change the connection link  <br> service <br> 15- Creating a dedicated and unchangeable status link(by the user) for each service <br> 16- Managing the site and panels via [Telegram bot](https://t.me/Patrick_Status_bot)
 
  # Inistallation
- Enter [Telegram bot](https://t.me/Patrick_Status_bot)
+ Open [Telegram bot](https://t.me/Patrick_Status_bot)
   and follow [these steps](https://github.com/Kup1ng/Patrick/blob/main/main-menu/add-site.md)
 
  # Useful links
