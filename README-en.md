@@ -17,7 +17,7 @@
  Open [Telegram bot](https://t.me/Patrick_Status_bot)
   and follow [these steps](https://github.com/Kup1ng/Patrick/blob/main/main-menu/add-site.md)
 
- # Useful links
+ # Steps to set up and work with the bot
  - [Account Info](https://github.com/Kup1ng/Patrick/blob/main/main-menu/Account-info.md)
  - [Add site](https://github.com/Kup1ng/Patrick/blob/main/main-menu/add-site.md)
  - [Delete site](https://github.com/Kup1ng/Patrick/blob/main/main-menu/delete-site.md)
@@ -26,7 +26,7 @@
  - [Privacy and security](https://github.com/Kup1ng/Patrick/blob/main/privacy-&-security.md)
 
  # Telegram
- **Bot: [@Patrick_status_bot](https://t.me/Patrick_Status_bot)**
+ Bot: [@Patrick_status_bot](https://t.me/Patrick_Status_bot)
  <br>
- **Channel: [@Patrick_status](https://t.me/Patrick_status)**
- **Group: [@Patrick_Status_Gap](https://t.me/Patrick_Status_Gap)**
+ Channel: [@Patrick_status](https://t.me/Patrick_status)
+ Group: [@Patrick_Status_Gap](https://t.me/Patrick_Status_Gap)
