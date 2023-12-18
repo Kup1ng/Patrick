@@ -17,13 +17,19 @@
 وارد [ربات تلگرام](https://t.me/Patrick_Status_bot)
  شوید و [این مراحل](https://github.com/Kup1ng/Patrick/blob/main/main-menu/add-site.md) را دنبال کنید
 
-# مراحل راه اندازی و کار با ربات
-- [**اطلاعات حساب**](https://github.com/Kup1ng/Patrick/blob/main/main-menu/Account-info.md)
-- [**افزودن سایت**](https://github.com/Kup1ng/Patrick/blob/main/main-menu/add-site.md)
-- [**حذف سایت**](https://github.com/Kup1ng/Patrick/blob/main/main-menu/delete-site.md)
-- [**فعال و غیرفعال کردن سایت**](https://github.com/Kup1ng/Patrick/blob/main/main-menu/enable-%26-disable-site.md)
-- [**مدیریت سایت ها**](https://github.com/Kup1ng/Patrick/blob/main/main-menu/site-management.md)
-- [**حریم خصوصی و امنیت**](https://github.com/Kup1ng/Patrick/blob/main/privacy-&-security.md)
+# لینک های مفید
+## منوی اصلی
+- [اطلاعات حساب](https://github.com/Kup1ng/Patrick/blob/main/main-menu/Account-info.md)
+- [افزودن سایت](https://github.com/Kup1ng/Patrick/blob/main/main-menu/add-site.md)
+- [حذف سایت](https://github.com/Kup1ng/Patrick/blob/main/main-menu/delete-site.md)
+- [فعال و غیرفعال کردن سایت](https://github.com/Kup1ng/Patrick/blob/main/main-menu/enable-%26-disable-site.md)
+- [مدیریت سایت ها](https://github.com/Kup1ng/Patrick/blob/main/main-menu/site-management.md)
+## مدیریت سایت
+- [کَش اطلاعات](https://github.com/Kup1ng/Patrick/blob/main/management-site/data-cache.md)
+- [خطا ها](https://github.com/Kup1ng/Patrick/blob/main/management-site/errors.md)
+- [تم](https://github.com/Kup1ng/Patrick/blob/main/management-site/theme.md)
+## غیره
+- [حریم خصوصی و امنیت](https://github.com/Kup1ng/Patrick/blob/main/privacy-&-security.md)
 
 # تلگرام
 ربات: [Patrick_status_bot@](https://t.me/Patrick_Status_bot)
