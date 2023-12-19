@@ -15,7 +15,7 @@
 
 # آموزش نصب
 وارد [ربات تلگرام](https://t.me/Patrick_Status_bot)
- شوید و [این مراحل](https://github.com/Kup1ng/Patrick/blob/main/main-menu/add-site.md) را دنبال کنید
+ شوید و این مراحل را دنبال کنید
 
 # لینک های مفید
 ## منوی اصلی
