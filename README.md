@@ -15,11 +15,11 @@
 <br> 11- مشاهده وضعیت آنلاین بودن کانفیگ  <br> 12- نصب بدون نیاز به هاست و سرور <br> 13- دریافت QrCode و لینک اتصال سرویس <br> ‌14- تغییر لینک اتصال سرویس <br> 15- ایجاد لینک وضعیت اختصاصی و غیر قابل تغییر(توسط کاربر) برای هر سرویس <br> 16- مدیریت سایت و پنل ها از طریق [ربات تلگرام](https://t.me/Patrick_Status_bot)
 
 # پیش‌نمایش
-<a href="https://demo.patrick-status.site/">
-  <img src="https://raw.githubusercontent.com/Kup1ng/Patrick/main/images/preview1-fa.png" width="700" alt="Image Description">
+<a href="https://demo.patrick-status.site/?lang=fa">
+  <img src="https://raw.githubusercontent.com/Kup1ng/Patrick/main/images/preview1-fa.png" width="700" alt="Preview1">
 </a>
-<a href="https://demo.patrick-status.site/details/SWl5UzdWUGV0dXpCN3pjenIzQXVPY29Tdkl0Uy9UdSttamNQOW10NmR3ejhkcGY5KzdHZG90Z2RhRUl3L2xncnNYRWY1bkJHY05sNmxTbEVsekVkSzdPamVONUwya2EwanBSSm1hZERrejQ9">
-  <img src="https://raw.githubusercontent.com/Kup1ng/Patrick/main/images/preview2-fa.png" width="700" alt="Image Description">
+<a href="https://demo.patrick-status.site/details/SWl5UzdWUGV0dXpCN3pjenIzQXVPY29Tdkl0Uy9UdSttamNQOW10NmR3ejhkcGY5KzdHZG90Z2RhRUl3L2xncnNYRWY1bkJHY05sNmxTbEVsekVkSzdPamVONUwya2EwanBSSm1hZERrejQ9?lang=fa">
+  <img src="https://raw.githubusercontent.com/Kup1ng/Patrick/main/images/preview2-fa.png" width="700" alt="Preview2">
 </a>
 
 # آموزش نصب
