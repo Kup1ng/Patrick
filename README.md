@@ -1,5 +1,6 @@
-<div align="center"><img src="https://raw.githubusercontent.com/Kup1ng/Patrick/main/images/patrick.png" width="350"></div>
-<div align="center">
+<div align="center"><a href="https://t.me/Patrick_status">
+  <img src="https://raw.githubusercontent.com/Kup1ng/Patrick/main/images/patrick.png" width="700" alt="Image Description">
+</a>
 <a href="https://github.com/Kup1ng/Patrick/blob/main/README-en.md"> Click here </a> for English README
 </div>
 <br>
@@ -12,6 +13,14 @@
  2- نمایش میزان دانلود و اپلود <br> 3- نمایش مجموع مصرف <br>
  4- نمایش تاریخ انقضا سرویس <br> 5- نمایش وضعیت فعال یا غیرفعال بودن سرویس <br> 6- نمایش روز های باقی مانده <br> 7- نمایش ترافیک باقی مانده <br> 8- پشتیبانی از  زبان فارسی و انگلیسی <br> 9- قابلیت اضافه کردن چند پنل <br> 10- ساب دامنه رایگان
 <br> 11- مشاهده وضعیت آنلاین بودن کانفیگ  <br> 12- نصب بدون نیاز به هاست و سرور <br> 13- دریافت QrCode و لینک اتصال سرویس <br> ‌14- تغییر لینک اتصال سرویس <br> 15- ایجاد لینک وضعیت اختصاصی و غیر قابل تغییر(توسط کاربر) برای هر سرویس <br> 16- مدیریت سایت و پنل ها از طریق [ربات تلگرام](https://t.me/Patrick_Status_bot)
+
+# پیش‌نمایش
+<a href="https://demo.patrick-status.site/">
+  <img src="https://raw.githubusercontent.com/Kup1ng/Patrick/main/images/preview1-fa.png" width="700" alt="Image Description">
+</a>
+<a href="https://demo.patrick-status.site/details/SWl5UzdWUGV0dXpCN3pjenIzQXVPY29Tdkl0Uy9UdSttamNQOW10NmR3ejhkcGY5KzdHZG90Z2RhRUl3L2xncnNYRWY1bkJHY05sNmxTbEVsekVkSzdPamVONUwya2EwanBSSm1hZERrejQ9">
+  <img src="https://raw.githubusercontent.com/Kup1ng/Patrick/main/images/preview2-fa.png" width="700" alt="Image Description">
+</a>
 
 # آموزش نصب
 وارد [ربات تلگرام](https://t.me/Patrick_Status_bot)
