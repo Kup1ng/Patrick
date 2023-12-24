@@ -60,7 +60,7 @@
 - [کَش اطلاعات](https://github.com/Kup1ng/Patrick/blob/main/management-site/data-cache.md)
 - [خطا ها](https://github.com/Kup1ng/Patrick/blob/main/management-site/errors.md)
 - [تم](https://github.com/Kup1ng/Patrick/blob/main/management-site/theme.md)
-- #### ربات تلگرام
+- ### ربات تلگرام
 - اطلاعات ربات
 - توکن
 ## مدیریت پنل ها
