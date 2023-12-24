@@ -60,6 +60,7 @@
 - [کَش اطلاعات](https://github.com/Kup1ng/Patrick/blob/main/management-site/data-cache.md)
 - [خطا ها](https://github.com/Kup1ng/Patrick/blob/main/management-site/errors.md)
 - [تم](https://github.com/Kup1ng/Patrick/blob/main/management-site/theme.md)
+- #### ربات تلگرام
 ## مدیریت پنل ها
 ## غیره
 - [حریم خصوصی و امنیت](https://github.com/Kup1ng/Patrick/blob/main/privacy-&-security.md)
