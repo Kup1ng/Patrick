@@ -33,7 +33,9 @@
 <br>
 16- مدیریت سایت و پنل ها از طریق [ربات تلگرام](https://t.me/Patrick_Status_bot)
 <br>
-17- ساب اسکرایب لینک 
+17- ساب اسکرایب لینک
+<br>
+18- ساخت ربات تلگرام متصل به سایت
 
 # پیش‌نمایش
 <a href="https://demo.patrick-status.site/?lang=fa">
