@@ -25,12 +25,14 @@
 > [!WARNING]
 > برای جلوگیری از بروز خطا و شناسایی دامنه شما، هنگام ساخت CNAME تیک پروکسی را خاموش کنید
 
+ بعد از دریافت پیام "سایت با دامنه **** با موفقیت ساخته شد!" به کلودفلر رفته و در بخش SSL/TLS در قسمت Overview حالت دریافت سرتیفیکیت را رو حالت Flexible تنظیم کنید
 
-- **افزودن مستقیم دامنه:**
+![cretification mode](https://raw.githubusercontent.com/Kup1ng/Patrick/main/images/certification-mode.png)
 
-اگر میخواید دامنه شما بصورت ساب دامنه نباشه و مستقیما از دامنه استفاده کنید ns دامنه رو به ns های ما تغییر بدید و دامنه را به ربات ارسال کنید!
-> **ns1.patrick-status.site**
+سپس در بخش SSL/TLS در قسمت Edge Certificates گزینه Always Use HTTPS را روشن کنید
 
-> **ns2.patrick-status.site**
+![always use HTTPS](https://raw.githubusercontent.com/Kup1ng/Patrick/main/images/https-force.png)
 
-![set name server](https://raw.githubusercontent.com/Kup1ng/Patrick/main/images/ns-set.png)
+سپس به ساب دامنه خود رفته و در CNAME تیک پروکسی را روشن کنید
+
+![set cloudflare dns record](https://raw.githubusercontent.com/Kup1ng/Patrick/main/images/cloudflare-dns-set2.png)
