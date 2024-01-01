@@ -52,7 +52,7 @@
  # سایر
 [حریم خصوصی و امنیت](https://github.com/Kup1ng/Patrick/blob/main/SECURITY.md)
 <br>
-[لایسنس](https://github.com/Kup1ng/Patrick/blob/main/LICENSE)
+[لایسنس](https://github.com/Kup1ng/Patrick?tab=MIT-1-ov-file)
 <br>
 [پیشنهاد، انتقاد، سوالات و مشکلات](https://t.me/PatrickSupport_bot)
 
