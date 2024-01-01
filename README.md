@@ -52,7 +52,9 @@
  # سایر
 [حریم خصوصی و امنیت](https://github.com/Kup1ng/Patrick/blob/main/SECURITY.md)
 <br>
-[پیشنهاد ، انتقاد ، کمک و مشکلات](https://t.me/PatrickSupport_bot)
+[لایسنس](https://github.com/Kup1ng/Patrick/blob/main/LICENSE)
+<br>
+[پیشنهاد، انتقاد، سوالات و مشکلات](https://t.me/PatrickSupport_bot)
 
 # تلگرام
 ربات: [Patrick_status_bot@](https://t.me/Patrick_Status_bot)
