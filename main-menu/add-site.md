@@ -1,21 +1,19 @@
 # افزودن سایت
 
 برای تنظیم دامنه سایت خود به یکی از روش های زیر اقدام کنید
+<br>
+## استفاده از ساب دامنه ما:
 
+اگه دامنه ندارید میتونید از ساب دامنه ما استفاده کنید
 
+`*.patrick-status.site`
 
-- **استفاده از ساب دامنه ما:**
+جای * ساب دامنه دلخواه بگذارید (حروف و اعداد انگلیسی و - ) و به ربات ارسال کنید!
 
-اگه دامنه ندارید میتونید از ساب دامنه ما استفاده کنید 
-
-> __*.patrick-status.site__
-
-جای * ساب دامنه دلخواه بگذارید (حروف و اعداد و - ) و به ربات ارسال کنید!
-
-> **Ex : vip.patrick-status.site**
-
-
--  **استفاده از دامنه کلودفلر:**
+**مثال : ‌`vip.patrick-status.site`**
+<br>
+<br>
+## استفاده از دامنه شخصی
 
 اگر میخواید از دامنه ای استفاده کنید که روی کلودفلر هست یک رکورد CNAME ایجاد کنید و target رو `connect.patrick-status.site` قرار بدید و دامنه را به ربات ارسال کنید!
 
@@ -23,16 +21,12 @@
 
 
 > [!WARNING]
-> برای جلوگیری از بروز خطا و شناسایی دامنه شما، هنگام ساخت CNAME تیک پروکسی را خاموش کنید
+> حتماً Proxy رو روشن کنید
+> ![set cloudflare dns record](https://raw.githubusercontent.com/Kup1ng/Patrick/main/images/cloudflare-dns-set2.png)
 
- بعد از دریافت پیام "سایت با دامنه **** با موفقیت ساخته شد!" به کلودفلر رفته و در بخش SSL/TLS در قسمت Overview حالت دریافت سرتیفیکیت را رو حالت Flexible تنظیم کنید
-
+بعد از ساخت رکورد به در بخش SSL/TLS در قسمت Overview، SSL/TLS encryption را روی حالت Flexible تنظیم کنید
 ![cretification mode](https://raw.githubusercontent.com/Kup1ng/Patrick/main/images/certification-mode.png)
 
-سپس در بخش SSL/TLS در قسمت Edge Certificates گزینه Always Use HTTPS را روشن کنید
+سپس در قسمت Edge Certificates گزینه Always Use HTTPS را روشن کنید
 
 ![always use HTTPS](https://raw.githubusercontent.com/Kup1ng/Patrick/main/images/https-force.png)
-
-سپس به ساب دامنه خود رفته و در CNAME تیک پروکسی را روشن کنید
-
-![set cloudflare dns record](https://raw.githubusercontent.com/Kup1ng/Patrick/main/images/cloudflare-dns-set2.png)
