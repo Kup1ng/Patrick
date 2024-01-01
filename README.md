@@ -48,15 +48,13 @@
 # **آموزش نصب**
 وارد [**ربات تلگرام**](https://t.me/Patrick_Status_bot)
  شوید و [**این مراحل**](https://github.com/Kup1ng/Patrick/blob/main/main-menu/readme.md) را دنبال کنید
- 
-<br>
 
-### [**حریم خصوصی و امنیت**](https://github.com/Kup1ng/Patrick/blob/main/privacy-&-security.md)
-### [**پیشنهاد ، انتقاد ، کمک و مشکلات**](https://t.me/PatrickSupport_bot)
-
+ # سایر
+[حریم خصوصی و امنیت](https://github.com/Kup1ng/Patrick/blob/main/privacy-&-security.md)
 <br>
+[پیشنهاد ، انتقاد ، کمک و مشکلات](https://t.me/PatrickSupport_bot)
 
 # تلگرام
 ربات: [Patrick_status_bot@](https://t.me/Patrick_Status_bot)
-
+<br>
 کانال: [Patrick_status@](https://t.me/Patrick_status)
