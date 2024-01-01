@@ -1,19 +1,22 @@
-# Security Policy
+# حریم خصوصی و امنیت
 
-## Supported Versions
+- تمام اطلاعات با به‌کارگیری روش‌های رمزگذاری و پیچیده‌ترین ابزارها حفاظت می‌شوند
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+- برای ارتقاء امنیت، برای هر سایت از روش رمزگذاری رندوم با کلیدهای دسترسی پیچیده و تصادفی استفاده می‌کنیم
 
-| Version | Supported          |
+- اطلاعات شما به‌طور کامل در سرور رمزگذاری شده و تحت حفاظت کلیدهای دسترسی پویا قرار دارند
+
+- داده‌ها به صورت End-to-End منتقل می‌شوند و هیچ‌کس، حتی ما، به اطلاعات دسترسی ندارد
+
+- کلیدهای Decrypt در سرور خارج نگه‌داری می‌شوند و به صورت End-to-End به کلاینت منتقل می‌شوند
+
+
+## نسخه های پشتیبانی شده
+
+| نسخه | پشتیبانی می‌شود؟       |
 | ------- | ------------------ |
-| <= 4.0.x   | :white_check_mark: |
-| > 3.0.x   | :x:                |
+| 4.0.x   | :white_check_mark: |
 
-## Reporting a Vulnerability
+## گزارش یک مشکل
+لطفا برای گزارش یک مشکل با [**پشتیبانی**](https://t.me/PatrickSupport_bot) در ارتباط باشید
 
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
