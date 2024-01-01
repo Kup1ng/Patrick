@@ -23,7 +23,7 @@
 > [!WARNING]
 حتماً Proxy رو روشن کنید
 > ![set cloudflare dns record](https://raw.githubusercontent.com/Kup1ng/Patrick/main/images/cloudflare-dns-set2.png)
-#### فعال سازی SSL
+### فعال سازی SSL
 بعد از ساخت رکورد در بخش SSL/TLS در قسمت Overview، SSL/TLS encryption را روی حالت Flexible تنظیم کنید
 ![cretification mode](https://raw.githubusercontent.com/Kup1ng/Patrick/main/images/certification-mode.png)
 سپس در قسمت Edge Certificates گزینه Always Use HTTPS را روشن کنید
