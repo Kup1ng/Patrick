@@ -50,7 +50,7 @@
  شوید و [**این مراحل**](https://github.com/Kup1ng/Patrick/blob/main/main-menu/readme.md) را دنبال کنید
 
  # سایر
-[حریم خصوصی و امنیت](https://github.com/Kup1ng/Patrick/blob/main/SECURITY.md)
+[حریم خصوصی و امنیت](https://github.com/Kup1ng/Patrick/tree/main?tab=security-ov-file)
 <br>
 [لایسنس](https://github.com/Kup1ng/Patrick?tab=MIT-1-ov-file)
 <br>
