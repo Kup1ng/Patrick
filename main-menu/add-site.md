@@ -8,14 +8,14 @@
 <br>
 `*.patrick-status.site`
 
-جای * ساب دامنه دلخواه بگذارید (حروف و اعداد انگلیسی و - ) و به ربات ارسال کنید!
+جای * ساب دامنه دلخواه بگذارید (حروف و اعداد انگلیسی و - ) و به ربات ارسال کنید
 <br>
 **مثال : ‌`vip.patrick-status.site`**
 <br>
 <br>
 ## استفاده از دامنه شخصی
 
-اگر میخواید از دامنه ای استفاده کنید که روی cloudflare هست یک رکورد CNAME ایجاد کنید و target رو `connect.patrick-status.site` قرار بدید و دامنه را به ربات ارسال کنید!
+اگر میخواید از دامنه ای استفاده کنید که روی cloud flare هست یک رکورد CNAME ایجاد کنید و target رو `connect.patrick-status.site` قرار بدید
 
 ![set cloudflare dns record](https://raw.githubusercontent.com/Kup1ng/Patrick/main/images/cloudflare-dns-set.png)
 
@@ -30,3 +30,5 @@
 سپس در قسمت Edge Certificates گزینه Always Use HTTPS را روشن کنید
 
 ![always use HTTPS](https://raw.githubusercontent.com/Kup1ng/Patrick/main/images/https-force.png)
+<br>
+و دامنه رو به ربات ارسال کنید
