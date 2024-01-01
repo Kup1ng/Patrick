@@ -50,7 +50,7 @@
  شوید و [**این مراحل**](https://github.com/Kup1ng/Patrick/blob/main/main-menu/readme.md) را دنبال کنید
 
  # سایر
-[حریم خصوصی و امنیت](https://github.com/Kup1ng/Patrick/blob/main/privacy-&-security.md)
+[حریم خصوصی و امنیت](https://github.com/Kup1ng/Patrick/blob/main/SECURITY.md)
 <br>
 [پیشنهاد ، انتقاد ، کمک و مشکلات](https://t.me/PatrickSupport_bot)
 
