@@ -6,7 +6,7 @@
 
 > **sub.domain.com/url-path**
 
-> **Ex : https://kup1ng.online:8443/Mahan1234/**
+> **Ex : **kup1ng.online:8443/Mahan1234**
 
 سپس نام کاربری و رمز عبور پنل را به درستی وارد کنید
 
