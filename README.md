@@ -1,5 +1,5 @@
 <div align="center"><a href="https://t.me/Patrick_status">
-  <img src="https://raw.githubusercontent.com/Kup1ng/Patrick/main/images/patrick.png" width="700" alt="Image Description">
+  <img src="https://raw.githubusercontent.com/Kup1ng/Patrick/main/images/patrick2.png" width="700" alt="Image Description">
 </a>
 </div>
 
