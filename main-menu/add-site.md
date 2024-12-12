@@ -6,16 +6,16 @@
 
 اگه دامنه ندارید میتونید از ساب دامنه ما استفاده کنید:
 <br>
-`patrick-status.site.*`
+`patrickstatus.com.*`
 
 جای * ساب دامنه دلخواه بگذارید (حروف و اعداد انگلیسی و - ) و به ربات ارسال کنید
 <br>
-**مثال : ‌`vip.patrick-status.site`**
+**مثال : ‌`vip.patrickstatus.com`**
 <br>
 <br>
 ## استفاده از دامنه شخصی
 
-اگر میخواید از دامنه ای استفاده کنید که روی cloud flare هست یک رکورد CNAME ایجاد کنید و target رو `connect.patrick-status.site` قرار بدید
+اگر میخواید از دامنه ای استفاده کنید که روی cloud flare هست یک رکورد CNAME ایجاد کنید و target رو `connect.patrickstatus.com` قرار بدید
 
 ![set cloudflare dns record](https://raw.githubusercontent.com/Kup1ng/Patrick/main/images/cloudflare-dns-set.png)
 
